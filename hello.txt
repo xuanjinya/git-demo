@@ -14,3 +14,4 @@ Hello git!
 Hello git!
 Hello git!
 Hello git! hot-fix 666
+hot-fix test
